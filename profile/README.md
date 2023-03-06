@@ -18,6 +18,3 @@ The flaws of this system are that the homework is not personalized for the stude
 
 ## Proposed System
 This new system will provide personalized content for the student to memorize and write down, with thereafter, a prompt on how they felt they did on the section. The green pen technique is still used, but the information chunks are essentially provided on screen, rather than through a booklet. Additionally, students, through filling in reflection prompts (post doing the knowledge navigator memorization and answering), will provide vital data to the teacher on their own interpretation of how well they think they know set subject. This can be useful information for the teacher to see.
-
-## C4 Container Diagram
-![image](https://user-images.githubusercontent.com/83029234/221689051-3af14489-79bb-41af-95c5-059ed32797c4.png)
